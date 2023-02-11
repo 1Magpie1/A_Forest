@@ -22,5 +22,6 @@ description:
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
   "Magpie's Garden"
-favicon: { rel: "shortcut icon", href: "magpie.png", type: "image/png" }
+favicon:
+  - { rel: "shortcut icon", href: "magpie.png", type: "image/png" }
 links:
