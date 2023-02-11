@@ -15,7 +15,7 @@ Notably, this gives us the transition probabilities between questions. It is rel
 $$ T_{B\rightarrow A} = \begin{pmatrix} \cos(\theta) & e^{i\phi}\sin(\theta) \\ -e^{i\phi}\sin(\theta) & \cos(\theta) \end{pmatrix} $$
 Since we are dealing with orthonormal vectors. In the end, we will take the magnitude of each value for our measurements, meaning that we can drop the phase term and get an orthogonal matrix. We can see this more clearly in a Bloch Sphere depiction. 
 
-![[BlochSphere.png]]
+![BlochSphere.png](/content/notes/attachments/BlochSphere.png)
 (The figure could be better, but it illustrates the point well enough.)
 
 We can see that the transition between $B$ and $A$ only depends on the real component, not the phase, aka it's symmetric with respect to $\phi$. This is also why we keep the negative sign in the matrix, as $B_n$ is still an antipode of $B_y$. This symmetry also gives us the QQ equality.
