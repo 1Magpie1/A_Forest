@@ -30,43 +30,35 @@ With similar for the answers to $B$.
 $$ ||P_A |S\rangle||^2 + ||P_{\bar{A}} |S\rangle||^2 = 1$$
 $$ ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 = 1$$
 $$ ||P_A |S\rangle||^2 + ||P_{\bar{A}} |S\rangle||^2 = ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 $$
-$$ 
-\langle S|A_y \rangle \langle A_y|S\rangle 
+$$ \langle S|A_y \rangle \langle A_y|S\rangle 
 + 
 \langle S|A_n \rangle \langle A_n|S \rangle  
 =
 \langle S|B_y \rangle \langle B_y|S\rangle
 +
-\langle S|B_n \rangle \langle B_n|S\rangle 
-$$
+\langle S|B_n \rangle \langle B_n|S\rangle $$
 
-$$ 
-\alpha^2\langle S|A_y \rangle \langle A_y|S\rangle 
+$$ \alpha^2\langle S|A_y \rangle \langle A_y|S\rangle 
 + 
 \alpha^2\langle S|A_n \rangle \langle A_n|S \rangle  
 =
 \alpha^2\langle S|B_y \rangle \langle B_y|S\rangle
 +
-\alpha^2\langle S|B_n \rangle \langle B_n|S\rangle 
-$$
+\alpha^2\langle S|B_n \rangle \langle B_n|S\rangle $$
 
 From $T_{B \rightarrow A}$, 
 $$ \langle A_y| B_y\rangle = \cos(\theta) = \langle B_y| A_y \rangle
 \quad
-\langle A_n | B_n \rangle = \cos(\theta) = \langle B_n | A_n \rangle 
-$$
+\langle A_n | B_n \rangle = \cos(\theta) = \langle B_n | A_n \rangle $$
 Letting $\alpha = \cos(\theta)$
-$$ 
-\langle S|A_y \rangle \cos^{2}(\theta) \langle A_y|S\rangle 
+$$ \langle S|A_y \rangle \cos^{2}(\theta) \langle A_y|S\rangle 
 + 
 \langle S|A_n \rangle \cos^{2}(\theta) \langle A_n|S \rangle  
 =
 \langle S|B_y \rangle \cos^{2}(\theta) \langle B_y|S\rangle
 +
-\langle S|B_n \rangle \cos^{2}(\theta) \langle B_n|S\rangle 
-$$
-$$ 
-\langle S|A_y \rangle 
+\langle S|B_n \rangle \cos^{2}(\theta) \langle B_n|S\rangle $$
+$$ \langle S|A_y \rangle 
 \langle A_y | B_y \rangle 
 \langle B_y | A_y \rangle 
 \langle A_y|S \rangle 
@@ -75,18 +67,7 @@ $$
 \langle A_n | B_n \rangle  
 \langle B_n | A_n \rangle 
 \langle A_n|S \rangle  
-= ...
-
-%\langle S|B_y \rangle 
-%\langle B_y | A_y \rangle  
-%\langle A_y | B_y \rangle 
-%\langle B_y|S \rangle
-%+
-%\langle S|B_n \rangle 
-%\langle B_n | A_n \rangle  
-%\langle A_n | B_n \rangle 
-%\langle B_n|S \rangle 
-$$
+= ...$$
 $$
 \langle S | P_A P_B P_A | S \rangle
 +
@@ -97,33 +78,27 @@ $$
 \langle S | P_\bar{B} P_\bar{A} P_\bar{B} | S \rangle
 $$
 Since $P^2_x = P_x$
-$$
-\langle S | P_A P^2_B P_A | S \rangle
+$$\langle S | P_A P^2_B P_A | S \rangle
 +
 \langle S | P_\bar{A} P^2_\bar{B} P_\bar{A} | S \rangle
 =
 \langle S | P_B P^2_A P_B | S \rangle
 +
-\langle S | P_\bar{B} P^2_\bar{A} P_\bar{B} | S \rangle
-$$
-$$
-|| P_B P_A |S\rangle||^2
+\langle S | P_\bar{B} P^2_\bar{A} P_\bar{B} | S \rangle$$
+$$|| P_B P_A |S\rangle||^2
 +
 || P_\bar{B} P_\bar{A} |S\rangle||^2
 =
 || P_A P_B |S\rangle||^2
 +
-|| P_\bar{A} P_\bar{B} |S\rangle||^2
-$$
-$$
-p(A B )
+|| P_\bar{A} P_\bar{B} |S\rangle||^2$$
+$$p(A B )
 +
 p(\bar{A} \bar{B} )
 =
 p( B A)
 +
-p( \bar{B} \bar{A})
-$$
+p( \bar{B} \bar{A})$$
 Which is the QQ equality. 
 
 You can also repeat this for the off-diagonal components to get the other version of the equality. 
