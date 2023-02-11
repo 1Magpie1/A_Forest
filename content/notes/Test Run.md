@@ -15,7 +15,7 @@ Notably, this gives us the transition probabilities between questions. It is rel
 $$ T_{B\rightarrow A} = \begin{pmatrix} \cos(\theta) & e^{i\phi}\sin(\theta) \\ -e^{i\phi}\sin(\theta) & \cos(\theta) \end{pmatrix} $$
 Since we are dealing with orthonormal vectors. In the end, we will take the magnitude of each value for our measurements, meaning that we can drop the phase term and get an orthogonal matrix. We can see this more clearly in a Bloch Sphere depiction. 
 
-![BlochSphere.png](/content/notes/attachments/BlochSphere.png)
+![BlochSphere.png](/notes/attachments/BlochSphere.png)
 (The figure could be better, but it illustrates the point well enough.)
 
 We can see that the transition between $B$ and $A$ only depends on the real component, not the phase, aka it's symmetric with respect to $\phi$. This is also why we keep the negative sign in the matrix, as $B_n$ is still an antipode of $B_y$. This symmetry also gives us the QQ equality.
@@ -28,36 +28,35 @@ $$ P_{A} = |A_y\rangle\langle A_y| \quad P_{\bar{A}} = |A_n\rangle\langle A_n| $
 With similar for the answers to $B$. 
 
 $$ ||P_A |S\rangle||^2 + ||P_{\bar{A}} |S\rangle||^2 = 1$$
-$$ ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 = 1$$
-$$ ||P_A |S\rangle||^2 + ||P_{\bar{A}} |S\rangle||^2 = ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 $$
-$$ \langle S|A_y \rangle \langle A_y|S\rangle 
-+ 
-\langle S|A_n \rangle \langle A_n|S \rangle  
-=
-\langle S|B_y \rangle \langle B_y|S\rangle
-+
-\langle S|B_n \rangle \langle B_n|S\rangle $$
 
-$$ \alpha^2\langle S|A_y \rangle \langle A_y|S\rangle 
-+ 
-\alpha^2\langle S|A_n \rangle \langle A_n|S \rangle  
-=
-\alpha^2\langle S|B_y \rangle \langle B_y|S\rangle
-+
-\alpha^2\langle S|B_n \rangle \langle B_n|S\rangle $$
+$$ ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 = 1$$
+
+$$ ||P_A |S\rangle||^2 + ||P_{\bar{A}} |S\rangle||^2 = ||P_B |S\rangle||^2 + ||P_{\bar{B}} |S\rangle||^2 $$
+
+$$ \langle S|A_y \rangle \langle A_y|S\rangle + \langle S|A_n \rangle \langle A_n|S \rangle  =\langle S|B_y \rangle \langle B_y|S\rangle+\langle S|B_n \rangle \langle B_n|S\rangle $$
+
+$$ \alpha^2\langle S|A_y \rangle \langle A_y|S\rangle + \alpha^2\langle S|A_n \rangle \langle A_n|S \rangle =\alpha^2\langle S|B_y \rangle \langle B_y|S\rangle+\alpha^2\langle S|B_n \rangle \langle B_n|S\rangle $$
 
 From $T_{B \rightarrow A}$, 
-$$ \langle A_y| B_y\rangle = \cos(\theta) = \langle B_y| A_y \rangle
-\quad
-\langle A_n | B_n \rangle = \cos(\theta) = \langle B_n | A_n \rangle $$
+
+$$ \langle A_y| B_y\rangle = \cos(\theta) = \langle B_y| A_y \rangle \quad \langle A_n | B_n \rangle = \cos(\theta) = \langle B_n | A_n\rangle $$
+
 Letting $\alpha = \cos(\theta)$
+
 $$ \langle S|A_y \rangle \cos^{2}(\theta) \langle A_y|S\rangle + \langle S|A_n \rangle \cos^{2}(\theta) \langle A_n|S \rangle =\langle S|B_y \rangle \cos^{2}(\theta) \langle B_y|S\rangle+\langle S|B_n \rangle \cos^{2}(\theta) \langle B_n|S\rangle $$
+
 $$ \langle S|A_y \rangle \langle A_y | B_y \rangle \langle B_y | A_y \rangle \langle A_y|S \rangle + \langle S|A_n \rangle\langle A_n | B_n \rangle  \langle B_n | A_n \rangle \langle A_n|S \rangle  = ...$$
+
 $$\langle S | P_A P_B P_A | S \rangle+\langle S | P_\bar{A} P_\bar{B} P_\bar{A} | S \rangle=\langle S | P_B P_A P_B | S \rangle+\langle S | P_\bar{B} P_\bar{A} P_\bar{B} | S \rangle$$
+
 Since $P^2_x = P_x$
+
 $$\langle S | P_A P^2_B P_A | S \rangle+\langle S | P_\bar{A} P^2_\bar{B} P_\bar{A} | S \rangle=\langle S | P_B P^2_A P_B | S \rangle+\langle S | P_\bar{B} P^2_\bar{A} P_\bar{B} | S \rangle$$
+
 $$|| P_B P_A |S\rangle||^2+|| P_\bar{B} P_\bar{A} |S\rangle||^2=|| P_A P_B |S\rangle||^2+|| P_\bar{A} P_\bar{B} |S \rangle||^2$$
+
 $$p(A B )+p(\bar{A} \bar{B} )=p( B A)+p( \bar{B} \bar{A})$$
+
 Which is the QQ equality. 
 
 You can also repeat this for the off-diagonal components to get the other version of the equality. 
