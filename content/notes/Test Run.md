@@ -39,6 +39,7 @@ $$
 +
 \langle S|B_n \rangle \langle B_n|S\rangle 
 $$
+
 $$ 
 \alpha^2\langle S|A_y \rangle \langle A_y|S\rangle 
 + 
@@ -48,6 +49,7 @@ $$
 +
 \alpha^2\langle S|B_n \rangle \langle B_n|S\rangle 
 $$
+
 From $T_{B \rightarrow A}$, 
 $$ \langle A_y| B_y\rangle = \cos(\theta) = \langle B_y| A_y \rangle
 \quad
