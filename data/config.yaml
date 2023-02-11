@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/Magpie-Roost/A_Forest/tree/Main/content
 search:
@@ -22,4 +22,6 @@ description:
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
   "Magpie's Garden"
+favicon:
+  - { rel: "shortcut icon", href: "Magpie_Icon.png", type: "image/png" }
 links:
