@@ -2,12 +2,12 @@
 title: Magpie Winslow
 ---
 
-
+![Picture of a Magpie](/content/notes/attachments/icon1.png)
 
 
 Welcome to my neck of the woods! Hope you get to relax a little.
 
-I'm [[Professional/About Me| Magpie Winslow]], and this is my open research notebook and digital garden. Head to my [[Professional/About Me]] page to learn more about who I am and what I do!
+I'm [[Professional/About Me| Magpie Winslow]], and this is my [[open research notebook]] and [[digital garden]]. Head to my [[Professional/About Me]] page to learn more about who I am and what I do!
 
 Otherwise, feel free to explore. 
 - Over here are my [works in progress](/new_growth). 
@@ -17,3 +17,5 @@ Otherwise, feel free to explore.
 - And these are some [teaching notes](/Teaching&Learning) for those that are curious!
 
 For more on the inspiration and philosophy of this type of website, check out [This Post](https://jzhao.xyz/posts/networked-thought/) from Jacky Zhao. 
+
+---
