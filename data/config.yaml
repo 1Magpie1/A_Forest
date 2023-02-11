@@ -23,5 +23,5 @@ description:
 page_title:
   "Magpie's Garden"
 favicon:
-  - { rel: "shortcut icon", href: "Magpie_Icon.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "static/Magpie_Icon.png", type: "image/png" }
 links:
