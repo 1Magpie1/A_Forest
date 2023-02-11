@@ -2,11 +2,12 @@
 title: Magpie Winslow
 ---
 
+
+
+
 Welcome to my neck of the woods! Hope you get to relax a little.
 
-I'm Magpie Winslow, a master's student and researcher at [UBC Okanagan](https://ok.ubc.ca). Most of my work attempts to describe the mind using the language of quantum mechanics.
-
-For more of me in a professional context, head to my [[Professional/About Me]] page.
+I'm [[Professional/About Me| Magpie Winslow]], and this is my open research notebook and digital garden. Head to my [[Professional/About Me]] page to learn more about who I am and what I do!
 
 Otherwise, feel free to explore. 
 - Over here are my [works in progress](/new_growth). 
