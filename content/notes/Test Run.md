@@ -45,7 +45,7 @@ Letting $\alpha = \cos(\theta)$
 
 $$ \langle S|A_y \rangle \cos^{2}(\theta) \langle A_y|S\rangle + \langle S|A_n \rangle \cos^{2}(\theta) \langle A_n|S \rangle =\langle S|B_y \rangle \cos^{2}(\theta) \langle B_y|S\rangle+\langle S|B_n \rangle \cos^{2}(\theta) \langle B_n|S\rangle $$
 
-$$ \langle S|A_y \rangle \langle A_y | B_y \rangle \langle B_y | A_y \rangle \langle A_y|S \rangle + \langle S|A_n \rangle\langle A_n | B_n \rangle  \langle B_n | A_n \rangle \langle A_n|S \rangle  = ...$$
+$$ \langle S|A_y \rangle \langle A_y | B_y \rangle \langle B_y | A_y \rangle \langle A_y|S \rangle + \langle S|A_n \rangle\langle A_n | B_n \rangle  \langle B_n | A_n \rangle \langle A_n|S \rangle  = \langle S|B_y \rangle \langle B_y | A_y \rangle \langle A_y | B_y \rangle \langle B_y|S \rangle + \langle S|B_n \rangle\langle B_n | A_n \rangle  \langle A_n | B_n \rangle \langle B_n|S \rangle $$
 
 $$\langle S | P_A P_B P_A | S \rangle+\langle S | P_\bar{A} P_\bar{B} P_\bar{A} | S \rangle=\langle S | P_B P_A P_B | S \rangle+\langle S | P_\bar{B} P_\bar{A} P_\bar{B} | S \rangle$$
 
