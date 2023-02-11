@@ -10,9 +10,9 @@ You can typically find me on campus in ART 367, or you can reach me at [mwinslow
 My [[CV]]
 
 ---
-## Ongoing projections
+## Ongoing projects
 
-**[[Quantum Equality in the Courtroom]]**: Can we apply the [[QQ equality]] from [Wang et al. (2014)](https://www.pnas.org/doi/abs/10.1073/pnas.1407756111) to credibility assessments in cases of sexual assault?
+**[[New Trees/Quantum Equality in the Courtroom]]**: Can we apply the [[notes/QQ equality]] from [Wang et al. (2014)](https://www.pnas.org/doi/abs/10.1073/pnas.1407756111) to credibility assessments in cases of sexual assault?
 
 ## Finished Projects
 
