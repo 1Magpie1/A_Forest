@@ -12,7 +12,7 @@ My [[CV]]
 ---
 ## Ongoing projects
 
-**[[content/New Trees/Quantum Equality in the Courtroom]]**: Can we apply the [[content/notes/QQ equality]] from [Wang et al. (2014)](https://www.pnas.org/doi/abs/10.1073/pnas.1407756111) to credibility assessments in cases of sexual assault?
+**[[New Trees/Quantum Equality in the Courtroom]]**: Can we apply the [[notes/QQ equality]] from [Wang et al. (2014)](https://www.pnas.org/doi/abs/10.1073/pnas.1407756111) to credibility assessments in cases of sexual assault?
 
 ## Finished Projects
 

@@ -1,9 +1,7 @@
 ---
 title: "Group Emails"
 tags:
-- email
-- tutorial
-- Microsoft Suite
+- Guide
 ---
 
 This is a quick tutorial on using Word, Excel, and Outlook to send emails to groups of people!
