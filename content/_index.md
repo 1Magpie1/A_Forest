@@ -17,21 +17,21 @@ Otherwise, feel free to explore.
 - And these are some [teaching notes](/Teaching&Learning) for those that are curious!
 
 As much of this website is me [working in public](https://notes.andymatuschak.org/Work_with_the_garage_door_up), there will be incomplete and partially formed ideas here. To help understand how well-developed an idea is, look for the following tags:
-- `#Guide`
+- #Guide
 	- This is my current understanding of how to do a given task.
-- `#Question`
+- #Question
 	- The beginnings of an idea which needs to be researched and developed.
-- `#Idea` 
+- #Idea
 	- Something I am currently investigating but do not have a firm grasp on.
-- `#Discussion`
+- #Discussion
 	- Personal thoughts and opinions on a topic. 
-- `#Claim`
+- #Claim
 	- An idea I am confident I can support but requires fine-tuning. 
-- `#Results`
+- #Results
 	- An idea which is supported by research and outside sources. 
-- `#Procedure`
+- #Procedure
 	- An explanation of experimental methods
-- `#Published`
+- #Published
 	- This has been published in peer-reviewed literature. 
 
 I hope this helps you find your way! Good luck!
