@@ -1,0 +1,199 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/Professional/About-Me",
+          "text": "Magpie Winslow"
+        },
+        {
+          "source": "/",
+          "target": "/notes/Open-Research-Notebook",
+          "text": "notes/Open Research Notebook"
+        },
+        {
+          "source": "/",
+          "target": "/notes/Digital-Garden",
+          "text": "notes/Digital Garden"
+        },
+        {
+          "source": "/",
+          "target": "/Professional/About-Me",
+          "text": "Professional/About Me"
+        },
+        {
+          "source": "/",
+          "target": "/new_growth",
+          "text": "works in progress"
+        },
+        {
+          "source": "/",
+          "target": "/how_to",
+          "text": "personal instruction manuals"
+        },
+        {
+          "source": "/",
+          "target": "/Teaching\u0026Learning",
+          "text": "teaching notes"
+        }
+      ],
+      "/Professional/About-Me": [
+        {
+          "source": "/Professional/About-Me",
+          "target": "/Math-as-Language",
+          "text": "language of quantum mechanics"
+        },
+        {
+          "source": "/Professional/About-Me",
+          "target": "/CV",
+          "text": "CV"
+        },
+        {
+          "source": "/Professional/About-Me",
+          "target": "/New-Trees/Quantum-Equality-in-the-Courtroom",
+          "text": "New Trees/Quantum Equality in the Courtroom"
+        },
+        {
+          "source": "/Professional/About-Me",
+          "target": "/notes/QQ-equality",
+          "text": "notes/QQ equality"
+        }
+      ]
+    },
+    "backlinks": {
+      "/CV": [
+        {
+          "source": "/Professional/About-Me",
+          "target": "/CV",
+          "text": "CV"
+        }
+      ],
+      "/Math-as-Language": [
+        {
+          "source": "/Professional/About-Me",
+          "target": "/Math-as-Language",
+          "text": "language of quantum mechanics"
+        }
+      ],
+      "/New-Trees/Quantum-Equality-in-the-Courtroom": [
+        {
+          "source": "/Professional/About-Me",
+          "target": "/New-Trees/Quantum-Equality-in-the-Courtroom",
+          "text": "New Trees/Quantum Equality in the Courtroom"
+        }
+      ],
+      "/Professional/About-Me": [
+        {
+          "source": "/",
+          "target": "/Professional/About-Me",
+          "text": "Magpie Winslow"
+        },
+        {
+          "source": "/",
+          "target": "/Professional/About-Me",
+          "text": "Professional/About Me"
+        }
+      ],
+      "/Teaching\u0026Learning": [
+        {
+          "source": "/",
+          "target": "/Teaching\u0026Learning",
+          "text": "teaching notes"
+        }
+      ],
+      "/how_to": [
+        {
+          "source": "/",
+          "target": "/how_to",
+          "text": "personal instruction manuals"
+        }
+      ],
+      "/new_growth": [
+        {
+          "source": "/",
+          "target": "/new_growth",
+          "text": "works in progress"
+        }
+      ],
+      "/notes/Digital-Garden": [
+        {
+          "source": "/",
+          "target": "/notes/Digital-Garden",
+          "text": "notes/Digital Garden"
+        }
+      ],
+      "/notes/Open-Research-Notebook": [
+        {
+          "source": "/",
+          "target": "/notes/Open-Research-Notebook",
+          "text": "notes/Open Research Notebook"
+        }
+      ],
+      "/notes/QQ-equality": [
+        {
+          "source": "/Professional/About-Me",
+          "target": "/notes/QQ-equality",
+          "text": "notes/QQ equality"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Professional/About-Me",
+      "target": "/Math-as-Language",
+      "text": "language of quantum mechanics"
+    },
+    {
+      "source": "/Professional/About-Me",
+      "target": "/CV",
+      "text": "CV"
+    },
+    {
+      "source": "/Professional/About-Me",
+      "target": "/New-Trees/Quantum-Equality-in-the-Courtroom",
+      "text": "New Trees/Quantum Equality in the Courtroom"
+    },
+    {
+      "source": "/Professional/About-Me",
+      "target": "/notes/QQ-equality",
+      "text": "notes/QQ equality"
+    },
+    {
+      "source": "/",
+      "target": "/Professional/About-Me",
+      "text": "Magpie Winslow"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Open-Research-Notebook",
+      "text": "notes/Open Research Notebook"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Digital-Garden",
+      "text": "notes/Digital Garden"
+    },
+    {
+      "source": "/",
+      "target": "/Professional/About-Me",
+      "text": "Professional/About Me"
+    },
+    {
+      "source": "/",
+      "target": "/new_growth",
+      "text": "works in progress"
+    },
+    {
+      "source": "/",
+      "target": "/how_to",
+      "text": "personal instruction manuals"
+    },
+    {
+      "source": "/",
+      "target": "/Teaching\u0026Learning",
+      "text": "teaching notes"
+    }
+  ]
+}
