@@ -11,6 +11,7 @@ First thing first! Make sure you have the package `brms` installed and loaded. T
 ```{r}
 install.packages("brms") # this is a fairly large package and may take some time to download.
 install.packages("tidyverse")
+
 library("brms")
 library("tidyverse")
 ```
