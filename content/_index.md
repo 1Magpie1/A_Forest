@@ -1,27 +1,43 @@
 ---
-title: 🪴 Quartz 3.
-enableToc: false
+title: Magpie Winslow
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+![Picture of a Magpie](/notes/attachments/icon1R.png)
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Welcome to my neck of the woods! I hope you get to relax a little.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I'm [[Professional/About Me|Magpie Winslow]], and this is my [[notes/Open Research Notebook]] and [[notes/Digital Garden]]. Head to my [[Professional/About Me]] page to learn more about who I am and what I do!
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Otherwise, feel free to explore. 
+- Over here are my [works in progress](/new_growth). 
+	- If you want to see what I'm thinking about.
+- This way leads to my [personal instruction manuals](/how_to)
+	- Because we all forget things from time to time.
+- And these are some [teaching notes](/Teaching&Learning) for those that are curious!
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+As much of this website is me [working in public](https://notes.andymatuschak.org/Work_with_the_garage_door_up), there will be incomplete and partially formed ideas here. To help understand how well-developed an idea is, look for the following tags:
+- #Guide
+	- This is my current understanding of how to do a given task.
+- #Question
+	- The beginnings of an idea which needs to be researched and developed.
+- #Idea
+	- Something I am currently investigating but do not have a firm grasp on.
+- #Discussion
+	- Personal thoughts and opinions on a topic. 
+- #Claim
+	- An idea I am confident I can support but requires fine-tuning. 
+- #Results
+	- An idea which is supported by research and outside sources. 
+- #Procedure
+	- An explanation of experimental methods
+- #Published
+	- This has been published in peer-reviewed literature. 
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+I hope this helps you find your way! Good luck!
 
+---
+
+For more on the inspiration and philosophy of this type of website, check out [This Post](https://jzhao.xyz/posts/networked-thought/) from Jacky Zhao. 
+
+---
