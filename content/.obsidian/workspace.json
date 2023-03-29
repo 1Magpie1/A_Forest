@@ -1,35 +1,36 @@
 {
   "main": {
-    "id": "507824066dea14be",
+    "id": "9c0ac0ece40cbe24",
     "type": "split",
     "children": [
       {
-        "id": "86bf98ae167858bc",
+        "id": "b43132b6f23f0bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "0790a4057cad8e1b",
+            "id": "42e0e20529b8409e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b8e86246651b29db",
+    "id": "8c15633c70f00910",
     "type": "split",
     "children": [
       {
-        "id": "72fa3e4f86eb366e",
+        "id": "4bb36690e3b5f5b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e3dc93032b3d02af",
+            "id": "0771b661b3bbd3ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +40,7 @@
             }
           },
           {
-            "id": "480b27cdd255b2dc",
+            "id": "ef53e8a080792c0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +55,7 @@
             }
           },
           {
-            "id": "85c1426b35c94f40",
+            "id": "b6fb11701c4600c0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,18 +66,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "9be932456a038724",
+    "id": "7d9311338586be8f",
     "type": "split",
     "children": [
       {
-        "id": "5e6125076f0c0353",
+        "id": "ef035bef9bdc935e",
         "type": "tabs",
         "children": [
           {
-            "id": "220c24ef2e788dbc",
+            "id": "9a1eb05007083f6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +93,7 @@
             }
           },
           {
-            "id": "0f627ccd9f074c99",
+            "id": "fc105d09efb2b062",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +104,7 @@
             }
           },
           {
-            "id": "ccac71042f564078",
+            "id": "6a135a316503f7b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +115,7 @@
             }
           },
           {
-            "id": "2bee00c46e0f0aa2",
+            "id": "be67e419a6bcb8ae",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -135,11 +136,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0790a4057cad8e1b",
+  "active": "42e0e20529b8409e",
   "lastOpenFiles": [
-    "how_to/Bayes in R.md"
+    "notes/QQ equality.md",
+    "notes/Open Research Notebook.md",
+    "how_to/Bayes in R.md",
+    "notes/Digital Garden.md",
+    "_index.md",
+    "how_to/Mass Email.md",
+    "New Trees/Quantum Equality in the Courtroom.md",
+    "Professional/About Me.md",
+    "notes/attachments/icon1.png",
+    "content/notes/attachments/icon1.png.md",
+    "notes/Untitled.canvas"
   ]
 }
