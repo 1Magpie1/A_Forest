@@ -25,7 +25,7 @@ Next, we need to load our data. I simulated this data based on the following des
 > Likability, warmth, and emotional intelligence are measured on a scale of 1 - 7 (midpoint at 4.)
 
 ```{r}
-Lie.Data <- read_csv("https://magpie-roost.github.io/Pine-Roost/notes/BayesianLearn.csv")
+Lie.Data <- read_csv("")
 head(Lie.Data)
 ```
 
