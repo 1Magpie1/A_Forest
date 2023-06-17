@@ -7,7 +7,7 @@ title: Magpie Winslow
 
 Welcome to my neck of the woods! I hope you get to relax a little.
 
-I'm [[Professional/About Me|Magpie Winslow]], and this is my [[notes/Open Research Notebook]] and [[notes/Digital Garden]]. Head to my [[Professional/About Me]] page to learn more about who I am and what I do!
+I'm [[Professional/About Me|Magpie Winslow]], and this is my [[notes/Open Research Notebook|Open Research Notebook]] and [[notes/Digital Garden|Digital Garden]]. Head to my [[Professional/About Me|About Me]] page to learn more about who I am and what I do!
 
 Otherwise, feel free to explore. 
 - Over here are my [works in progress](/new_growth). 
