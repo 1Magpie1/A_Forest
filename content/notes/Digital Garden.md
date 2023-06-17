@@ -2,7 +2,7 @@
 title: "Digital Garden"
 tags: 
 - Discussion
-- Definition
+- Standing
 ---
 
 For a full explanation I would recommend reading this post on the [History and Philosophy of Digital Gardens](https://maggieappleton.com/garden-history). 
@@ -11,3 +11,4 @@ In essence it's simply a blog! However, while some blogs put out polished, finis
 
 In many ways you can think of traditional blogs as a museum; a curated experience of a series of individual articles. A digital gardens encourage visitors to explore the current works, taking any path they wish by following different links. Neither is better or worse and both have advantages and disadvantages. I personally enjoy the playful, exploratory experience of a digital garden. It also seems appropriate given the highly [[content/Interdisciplinary|Interdisciplinary]] and exploratory nature of [[content/My Research|My Research]]. 
 
+I think of this website as the public section of my "vegetable garden." While it still is very much still a functioning part of my learning, it is pared down to be manageable and inviting to others. I hope you enjoy exploring!
